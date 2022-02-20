@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+7ae2bd8ef16fff4de462bb6b6b79ac58 CMakeFiles/hidapi-download
+87fb1e51ff3f29ff2e322c9aedda5354 CMakeFiles/hidapi-download-complete
+3dad7bafe20e40e68e2f964e2a8752e8 hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-build
+a6d363bb2c6c736845071505ce92b218 hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-configure
+8190846e3eebb5f56a84da6c42dc9802 hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-download
+7f211afd7dbd4d8394934179f5791ffa hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-install
+c28ea93855158a9681dd4792f38a840c hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-mkdir
+98bd45284cd526e3cb029853066bc517 hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-patch
+02fe3f51e55c5a0829f951171f89632f hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-test
+979c68cd2966370f5e77341c4ea422ff hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-update

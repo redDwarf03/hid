@@ -2,9 +2,8 @@ import 'dart:ffi';
 import 'dart:typed_data';
 
 import 'package:ffi/ffi.dart';
-
+import 'hidapi_service.dart';
 import 'package:hid_macos/generated_bindings.dart';
-import 'package:hid_macos/hidapi_service.dart';
 
 final _api = Api(DynamicLibrary.executable());
 

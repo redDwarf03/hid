@@ -1,0 +1,3 @@
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/hidapi-download.dir
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/edit_cache.dir
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/rebuild_cache.dir

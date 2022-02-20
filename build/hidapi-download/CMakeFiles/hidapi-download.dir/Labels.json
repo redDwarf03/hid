@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/hidapi-download"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/hidapi-download.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/hidapi-download-complete.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-build.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-configure.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-download.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-install.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-mkdir.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-patch.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-test.rule"
+		},
+		{
+			"file" : "/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hidapi-download"
+		],
+		"name" : "hidapi-download"
+	}
+}

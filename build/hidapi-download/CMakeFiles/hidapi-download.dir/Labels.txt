@@ -1,0 +1,14 @@
+# Target labels
+ hidapi-download
+# Source files and their labels
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/hidapi-download
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/hidapi-download.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/CMakeFiles/hidapi-download-complete.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-build.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-configure.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-download.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-install.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-mkdir.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-patch.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-test.rule
+/Users/reddwarf/SSe/app/LEDGER/hid/build/hidapi-download/hidapi-download-prefix/src/hidapi-download-stamp/hidapi-download-update.rule
